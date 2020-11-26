@@ -1,4 +1,4 @@
-# WinAttackLab-terraform
+# Winsocketd-UI
 ## UI
 Edit the constants in the file `root/opt/www/js/script.js` to your needs.
 
