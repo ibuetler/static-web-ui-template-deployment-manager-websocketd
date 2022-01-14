@@ -3,6 +3,6 @@ version: '3.6'
 services:
   groomalia:
     build: .
-    image: hackinglab/groomalia:latest
+    image: hackinglab/static-web-ui-template-deployment-manager-websocketd:3.2
     ports:
       - 80:80
